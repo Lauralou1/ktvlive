@@ -1,0 +1,20 @@
+<dir>
+	<title>Trailers</title>
+	<moviefone>trailers/1</moviefone>
+</dir>
+
+<dir>
+	<title>New Releases [COLOR orange](Requires Real-Debrid Account)[/COLOR]</title>
+	<Airtable>newest_releases2</Airtable>
+</dir>
+
+<dir>
+	<title>Genres</title>
+	<link>https://raw.githubusercontent.com/Solvtions/ktvlive/_xml/master/genres.xml</link>
+</dir>
+
+<dir>
+	<title>24/7 Movies</title>
+	<arconaitv2>movies</arconaitv2>
+</dir>
+

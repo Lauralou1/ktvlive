@@ -1,0 +1,14 @@
+<dir>
+	<title>Leagues</title>
+	<link>https://raw.githubusercontent.com/Solvtions/ktvlive/_xml/master/leagues.xml</link>
+</dir>
+
+<dir>
+	<title>Replays</title>
+	<link>https://raw.githubusercontent.com/Solvtions/ktvlive/_xml/master/replays.xml</link>
+</dir>
+
+<dir>
+	<title>Sports Channels</title>
+	<Airtable>sports_channels</Airtable>
+</dir>
