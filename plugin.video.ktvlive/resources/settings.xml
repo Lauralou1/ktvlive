@@ -98,8 +98,8 @@
     <!-- Dev mode - future features for playlisters and developers -->
     <category label="30770">
         <setting id="debug" type="bool" label="30758" default="false" visible="true"/>
-        <setting id="root_xml" type="text" label="30060" option="hidden" default="https://raw.githubusercontent.com/Solvtions/ktvlive/_xml/master/main.xml" visible="false"/>
-        <setting id="message_xml_url" type="text" label="News File Location" option="hidden" default="https://raw.githubusercontent.com/Solvtions/ktvlive/_xml/master/news.xml" visible="true"/>
+        <setting id="root_xml" type="text" label="30060" option="hidden" default="https://raw.githubusercontent.com/Solvtions/ktvlive/master/_xml/main.xml" visible="false"/>
+        <setting id="message_xml_url" type="text" label="News File Location" option="hidden" default="https://raw.githubusercontent.com/Solvtions/ktvlive/master/_xml/news.xml" visible="true"/>
         <setting id="current_version" type="text" label="Current API Set Version" option="hidden" default="0" visible="false"/>
         <setting id="enable_notification" type="bool" label="Enable Service Notification" option="hidden" default="true" visible="false"/>
         <setting id="disable_service" type="bool" label="Disable Service after First Run" option="hidden" default="true" visible="false"/>

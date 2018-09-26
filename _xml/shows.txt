@@ -1,4 +1,0 @@
-<dir>
-    <title>OTB TV Shows</title>
-    <otb_tv>all</otb_tv>
-    </dir>
