@@ -5,7 +5,7 @@
 
 <dir>
 	<title>Live TV 2</title>
-	<Airtable>channels2</Airtable>
+	<link>plugin://script.module.swiftstreamz/list_channels/41</link>
 </dir>
 
 <dir>
