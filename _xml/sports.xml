@@ -1,11 +1,11 @@
 <dir>
 	<title>Leagues</title>
-	<link>https://raw.githubusercontent.com/Solvtions/ktvlive/_xml/master/leagues.xml</link>
+	<link>https://raw.githubusercontent.com/Solvtions/ktvlive/master/_xml/leagues.xml</link>
 </dir>
 
 <dir>
 	<title>Replays</title>
-	<link>https://raw.githubusercontent.com/Solvtions/ktvlive/_xml/master/replays.xml</link>
+	<link>https://raw.githubusercontent.com/Solvtions/ktvlive/master/_xml/replays.xml</link>
 </dir>
 
 <dir>
