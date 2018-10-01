@@ -1,10 +1,10 @@
 <dir>
-	<title>TV Show Calendar</title>
-	<tvmaze>calendar</tvmaze>
+	<title>KTV Shows</title>
+	<link>https://raw.githubusercontent.com/Solvtions/ktvlive/_xml/master/ktvshows.xml</link>
 </dir>
 
 <dir>
-	<title>1 Click TV Shows</title>
+	<title>OTB Shows</title>
 	<otb_tv>all</otb_tv>
 </dir>
 
