@@ -4,6 +4,11 @@
 </dir>
 
 <dir>
+	<title>KTV Requests</title>
+	<link>https://raw.githubusercontent.com/Solvtions/ktvlive/master/_xml/ktvshows.xml</link>
+</dir>
+
+<dir>
 	<title>OTB Shows</title>
 	<otb_tv>all</otb_tv>
 </dir>
