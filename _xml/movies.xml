@@ -9,8 +9,8 @@
 </dir>
 
 <dir>
-	<title>Genres</title>
-	<link>https://raw.githubusercontent.com/Solvtions/ktvlive/_xml/master/genres.xml</link>
+	<title>Big Movie List</title>
+	<ktv_movies>movie_meta</ktv_movies>
 </dir>
 
 <dir>
