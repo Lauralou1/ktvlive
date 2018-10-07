@@ -1,0 +1,69 @@
+<dir>
+	<title>Action</title>
+	<ktv_movies>genre/Action</ktv_movies>
+</dir>
+
+<dir>
+	<title>Adventure</title>
+	<ktv_movies>genre/Adventure</ktv_movies>
+</dir>
+
+<dir>
+	<title>Comedy</title>
+	<ktv_movies>genre/Comedy</ktv_movies>
+</dir>
+
+<dir>
+	<title>Concert</title>
+	<ktv_movies>genre/Concert</ktv_movies>
+</dir>
+
+<dir>
+	<title>Documentary</title>
+	<ktv_movies>genre/Documentary</ktv_movies>
+</dir>
+
+<dir>
+	<title>Drama</title>
+	<ktv_movies>genre/Drama</ktv_movies>
+</dir>
+
+<dir>
+	<title>Family</title>
+	<ktv_movies>genre/Family</ktv_movies>
+</dir>
+
+<dir>
+	<title>Kids</title>
+	<ktv_movies>genre/Kids</ktv_movies>
+</dir>
+
+<dir>
+	<title>Romance</title>
+	<ktv_movies>genre/Romance</ktv_movies>
+</dir>
+
+<dir>
+	<title>SciFi</title>
+	<ktv_movies>genre/SciFi</ktv_movies>
+</dir>
+
+<dir>
+	<title>Standup Comedy</title>
+	<ktv_movies>genre/Standup Comedy</ktv_movies>
+</dir>
+
+<dir>
+	<title>Thriller</title>
+	<ktv_movies>genre/Thriller</ktv_movies>
+</dir>
+
+<dir>
+	<title>War</title>
+	<ktv_movies>genre/War</ktv_movies>
+</dir>
+
+<dir>
+	<title>Western</title>
+	<ktv_movies>genre/Western</ktv_movies>
+</dir>

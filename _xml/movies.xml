@@ -10,7 +10,7 @@
 
 <dir>
 	<title>KTV Movie List</title>
-	<ktv_movies>all</ktv_movies>
+	<link>https://raw.githubusercontent.com/Solvtions/ktvlive/master/_xml/ktvmovies.xml</link>
 </dir>
 
 <dir>
