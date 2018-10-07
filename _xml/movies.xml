@@ -9,8 +9,8 @@
 </dir>
 
 <dir>
-	<title>Big Movie List</title>
-	<ktv_movies>movie_meta</ktv_movies>
+	<title>KTV Movie List</title>
+	<ktv_movies>all</ktv_movies>
 </dir>
 
 <dir>
