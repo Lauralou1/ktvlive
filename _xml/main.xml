@@ -1,21 +1,33 @@
 <xml>
-  <dir>
-    <title>Live TV Channels</title>
-    <link>https://raw.githubusercontent.com/Solvtions/ktvlive/master/_xml/live.xml</link>
-  </dir>
+	<dir>
+		<title>Live TV Channels</title>
+		<link>https://raw.githubusercontent.com/Solvtions/ktvlive/master/_xml/live.xml</link>
+	</dir>
 
-  <dir>
-    <title>Sports</title>
-    <link>https://raw.githubusercontent.com/Solvtions/ktvlive/master/_xml/sports.xml</link>
-  </dir>
-  
-  <dir>
-    <title>Movies On Demand</title>
-    <link>https://raw.githubusercontent.com/Solvtions/ktvlive/master/_xml/movies.xml</link>
-  </dir>
-  
-  <dir>
-    <title>TV Shows</title>
-    <link>https://raw.githubusercontent.com/Solvtions/ktvlive/master/_xml/shows.xml</link>
-  </dir>
+	<dir>
+		<title>Sports</title>
+		<link>https://raw.githubusercontent.com/Solvtions/ktvlive/master/_xml/sports.xml</link>
+	</dir>
+
+	<dir>
+		<title>Movies On Demand</title>
+		<link>https://raw.githubusercontent.com/Solvtions/ktvlive/master/_xml/movies.xml</link>
+	</dir>
+
+	<dir>
+		<title>TV Shows</title>
+		<link>https://raw.githubusercontent.com/Solvtions/ktvlive/master/_xml/shows.xml</link>
+	</dir>
+
+	<item>
+		<title>Settings</title>
+		<mysettings>1/0</mysettings>
+		<info>Open the Settings for the addon on the General tab</info>
+	</item>
+
+	<plugin>
+		<name>Testings</name>
+		<link>plugin://plugin.video.ktvcinema/?action=developer</link>
+		<summary>Testings</summary>
+	</plugin>
 </xml>
