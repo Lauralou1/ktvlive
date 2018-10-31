@@ -1,0 +1,69 @@
+<dir>
+	<title>Action Movies</title>
+	<bml>genre/Action</bml>
+</dir>
+
+<dir>
+	<title>Adventure Movies</title>
+	<bml>genre/Adventure</bml>
+</dir>
+
+<dir>
+	<title>Comedy Movies</title>
+	<bml>genre/Comedy</bml>
+</dir>
+
+<dir>
+	<title>Documentary Movies</title>
+	<bml>genre/Documentary</bml>
+</dir>
+
+<dir>
+	<title>Drama Movies</title>
+	<bml>genre/Drama</bml>
+</dir>
+
+<dir>
+	<title>Family Movies</title>
+	<bml>genre/Family</bml>
+</dir>
+
+<dir>
+	<title>Horror Movies</title>
+	<bml>genre/Horror</bml>
+</dir>
+
+<dir>
+	<title>Kids Movies</title>
+	<bml>genre/Kids</bml>
+</dir>
+
+<dir>
+	<title>Romance Movies</title>
+	<bml>genre/Romance</bml>
+</dir>
+
+<dir>
+	<title>SciFi Movies</title>
+	<bml>genre/SciFi</bml>
+</dir>
+
+<dir>
+	<title>Standup Comedy Movies</title>
+	<bml>genre/Standup Comedy</bml>
+</dir>
+
+<dir>
+	<title>Thriller Movies</title>
+	<bml>genre/Thriller</bml>
+</dir>
+
+<dir>
+	<title>War Movies</title>
+	<bml>genre/War</bml>
+</dir>
+
+<dir>
+	<title>Western Movies</title>
+	<bml>genre/Western</bml>
+</dir>

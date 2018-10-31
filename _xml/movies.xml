@@ -14,6 +14,11 @@
 </dir>
 
 <dir>
+	<title>Big Movie List</title>
+	<link>https://raw.githubusercontent.com/Solvtions/ktvlive/master/_xml/biglist.xml</link>
+</dir>
+
+<dir>
 	<title>24/7 Movies</title>
 	<arconaitv2>movies</arconaitv2>
 </dir>
