@@ -1,11 +1,11 @@
 <dir>
-	<title>KTV Shows</title>
-	<ktv_shows>all</ktv_shows>
+  <title>Search TV Shows</title>
+  <trakt>search</trakt>
 </dir>
 
 <dir>
-	<title>KTV Requests</title>
-	<link>https://raw.githubusercontent.com/Solvtions/ktvlive/master/_xml/ktvshows.xml</link>
+	<title>KTV Shows</title>
+	<ktv_shows>all</ktv_shows>
 </dir>
 
 <dir>
@@ -16,4 +16,14 @@
 <dir>
 	<title>24/7 TV Shows</title>
 	<arconaitv2>shows</arconaitv2>
+</dir>
+
+<dir>
+  <title>Classic TV</title>
+  <tmdb>list/38976</tmdb>
+</dir>
+
+<dir>
+	<title>KTV Requests</title>
+	<link>https://raw.githubusercontent.com/Solvtions/ktvlive/master/_xml/ktvshows.xml</link>
 </dir>

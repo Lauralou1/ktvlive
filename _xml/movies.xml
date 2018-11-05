@@ -1,4 +1,9 @@
 <dir>
+	<title>Search Movies</title>
+	<tmdb>search</tmdb>
+</dir>
+
+<dir>
 	<title>Trailers</title>
 	<moviefone>trailers/1</moviefone>
 </dir>
@@ -23,3 +28,7 @@
 	<arconaitv2>movies</arconaitv2>
 </dir>
 
+<dir>
+	<title>Black n White Movies</title>
+	<bnw>movies</bnw>
+</dir>
